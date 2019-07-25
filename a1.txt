@@ -1,2 +1,3 @@
 LINE 1 in a1.txt
 LINE 2 added in remote repository
+LINE 3 added in LOCAL repository after pulling from remote
